@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown --from=root -R vincent: staff ./*
+sudo chown --from= root -R vincent: staff ./*
